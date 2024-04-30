@@ -1,2 +1,5 @@
 Father
 Mother
+Sister
+Brother
+Grandmaa
